@@ -8,10 +8,10 @@
     "dark_brown": "#302017"
   },
   "logos": {
-    "circle_green": "RAW_URL_1",
-    "main_primary": "RAW_URL_2",
-    "main_cream": "RAW_URL_3",
-    "icon_green": "RAW_URL_4"
+    "circle_green": "https://raw.githubusercontent.com/mjpsm05/MVP_Logos_and_Colors/refs/heads/main/MyVillageProject_circle_greenlg%20(1)%20(1).png",
+    "main_primary": "https://raw.githubusercontent.com/mjpsm05/MVP_Logos_and_Colors/refs/heads/main/MyVillageProject_logo_mainlg%20(1)%20(1).png",
+    "main_cream": "https://raw.githubusercontent.com/mjpsm05/MVP_Logos_and_Colors/refs/heads/main/MyVillageProject_logo_main_creamlg%20(2)%20(1).png",
+    "icon_green": "https://raw.githubusercontent.com/mjpsm05/MVP_Logos_and_Colors/refs/heads/main/MyVillageProject_icon_greenlg%20(1)%20(1).png"
   },
   "brand_rules": {
     "header_color": "#043922",
