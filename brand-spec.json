@@ -1,0 +1,31 @@
+{
+  "colors": {
+    "gold": "#B07C00",
+    "village_green": "#043922",
+    "white": "#FFFFFF",
+    "cream": "#E4DCCB",
+    "sky_blue": "#799C9F",
+    "dark_brown": "#302017"
+  },
+  "logos": {
+    "circle_green": "RAW_URL_1",
+    "main_primary": "RAW_URL_2",
+    "main_cream": "RAW_URL_3",
+    "icon_green": "RAW_URL_4"
+  },
+  "brand_rules": {
+    "header_color": "#043922",
+    "cta_color": "#B07C00",
+    "primary_font": "Poppins",
+    "secondary_font": "Inter",
+    "logo_usage": {
+      "on_light_background": "main_primary",
+      "on_dark_background": "main_cream",
+      "icons": "circle_green"
+    }
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "description": "MyVillage Project Brand Specification for Dashboard Creation Agents"
+  }
+}
